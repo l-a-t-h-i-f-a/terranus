@@ -1,0 +1,23 @@
+[debug] [2026-11-09T06:46:27.621Z] ----------------------------------------------------------------------
+[debug] [2026-11-09T06:46:27.628Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\victus\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2026-11-09T06:46:27.628Z] CLI Version:   15.33.0
+[debug] [2026-11-09T06:46:27.628Z] Platform:      win32
+[debug] [2026-11-09T06:46:27.628Z] Node Version:  v22.12.0
+[debug] [2026-11-09T06:46:27.629Z] Detected Agent: unknown
+[debug] [2026-11-09T06:46:27.629Z] Time:          Mon Nov 09 2026 13:46:27 GMT+0700 (Western Indonesia Time)
+[debug] [2026-11-09T06:46:27.629Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2026-11-09T06:46:27.647Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\terranus
+
+[debug] [2026-11-09T06:46:38.759Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2026-11-09T06:46:38.759Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}

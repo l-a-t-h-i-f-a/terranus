@@ -1,0 +1,9 @@
+{
+  "name": "TerraNus — Geospatial BI berbasis Kearifan Lokal",
+  "short_name": "TerraNus",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7ff",
+  "theme_color": "#1d4ed8",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
